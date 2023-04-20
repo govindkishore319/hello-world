@@ -1,0 +1,9 @@
+touch .gitignore
+git init
+git add .
+git commit -m "Initial commit"
+git status
+git remote add origin <ssh.link copied>
+then created a ssh key to give access to my github account
+then:
+git push origin master : works like a charm
